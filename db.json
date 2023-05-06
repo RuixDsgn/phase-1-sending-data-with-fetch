@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,25 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Ssangchu",
+      "dogBreed": "Yorkie Mix",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +38,257 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "rui",
+      "email": "ruixdsgn@gmail.com",
+      "id": 1
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 2
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 3
+    },
+    {
+      "name": "rui",
+      "email": "rui@rui.com",
+      "id": 4
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 5
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 6
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 7
+    },
+    {
+      "name": "nando",
+      "email": "nando@mail.com",
+      "id": 8
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 9
+    },
+    {
+      "name": "nimbo",
+      "email": "nimbo@cat.com",
+      "id": 10
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 11
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 12
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 13
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 14
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 15
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 16
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 17
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 18
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 19
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 20
+    },
+    {
+      "name": "me",
+      "email": "me@me.com",
+      "id": 21
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 22
+    },
+    {
+      "name": "bob",
+      "email": "bob@email.com",
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 25
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 26
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 27
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 28
+    },
+    {
+      "name": "bob",
+      "email": "bob@email.com",
+      "id": 29
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 30
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 31
+    },
+    {
+      "name": "bob",
+      "email": "bob@email.com",
+      "id": 32
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 33
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 34
+    },
+    {
+      "name": "bob",
+      "email": "bob@email.com",
+      "id": 35
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 36
+    },
+    {
+      "name": "bob",
+      "email": "bob@email.com",
+      "id": 37
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 38
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 39
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 40
+    },
+    {
+      "name": "bob",
+      "email": "bob@email.com",
+      "id": 41
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 42
+    },
+    {
+      "name": {
+        "isTrusted": true
+      },
+      "id": 43
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
